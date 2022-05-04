@@ -1,0 +1,57 @@
+#main-input{
+    width: 300px;
+}
+
+
+.search-section{
+    width: 688px;
+    height: 100px;
+    background-color: #EEEEEE;
+}
+
+.special-search{
+    height: 100px;
+    width: 250px;
+    background-color: #7EE5DA;
+    margin: 2px;
+    align-items: center;
+}
+
+.cont{
+    display: flex;
+    justify-content: center;
+}
+
+.help-section{
+    height: 100px;
+    width: 180px;
+    background-color: #70CCC2;
+    margin: 2px;
+    align-items: center;
+}
+
+.email-section{
+    height: 100px;
+    width: 250px;
+    background-color: #62B3AA;
+    margin: 2px;
+    align-items: center;
+}
+
+p{
+    margin: 10px 5px 5px 5px;
+}
+
+.last-p{
+    margin-top: 20px;
+}
+
+#firstBtn{
+    width: 150px;
+    height: 25px;
+}
+
+#secondBtn{
+    width: 140px;
+    height: 25px;
+}
